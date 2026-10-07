@@ -1,0 +1,31 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Flowers And Leaf's!- §2§lAZ12G",
+        "name": "§d§lF§r&§2§lL §rTotems",
+        "uuid":
+"a2569c61-da41-4556-86bb-c3812f4757a0",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 20, 0]
+    },
+    "modules": [
+        {
+            "description": "Flowers And Leaf's! - §2§lAZ12G",
+            "type": "resources",
+            "uuid": "50885afd-b6cb-468d-a869-8edd88efc40e",
+            "version": [1, 0, 0]
+        }
+    ],
+    "subpacks" :[
+    {
+      "folder_name":"flower",
+      "name":"§d§lFlower §rTotem",
+      "memory_tier":1
+    },
+    {
+      "folder_name":"leaf",
+      "name":"§2§lLeaf §rTotem",
+      "memory_tier":2
+    }
+    ]
+}
